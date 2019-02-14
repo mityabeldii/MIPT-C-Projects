@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\users\mityabeldii\documents\visual studio 2015\projects\cpu\cpu\main.cpp(102): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
-  CPU.vcxproj -> C:\Users\mityabeldii\documents\visual studio 2015\PROJECTS\CPU\Debug\CPU.exe
-  CPU.vcxproj -> C:\Users\mityabeldii\documents\visual studio 2015\PROJECTS\CPU\Debug\CPU.pdb (Partial PDB)
