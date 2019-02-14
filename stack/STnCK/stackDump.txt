@@ -1,0 +1,82 @@
+STACK DUMP
+current stack size - 9
+max stack size - 10
+
+STACK ELEMENTS DUMP
+data 9
+current 21327920
+next 21337700
+ - - -
+data 8
+current 21327920
+next 21329708
+ - - -
+data 7
+current 21327920
+next 21328476
+ - - -
+data 6
+current 21327920
+next 21329092
+ - - -
+data 5
+current 21327920
+next 21328980
+ - - -
+data 4
+current 21327920
+next 21328924
+ - - -
+data 3
+current 21327920
+next 21328252
+ - - -
+data 2
+current 21327920
+next 21328756
+ - - -
+data 1
+current 21327920
+next 21328868
+ - - -
+STACK DUMP
+current stack size - 9
+max stack size - 10
+
+STACK ELEMENTS DUMP
+data 9
+current 15525088
+next 15529156
+ - - -
+data 8
+current 15525088
+next 15528652
+ - - -
+data 7
+current 15525088
+next 15506364
+ - - -
+data 6
+current 15525088
+next 15526036
+ - - -
+data 5
+current 15525088
+next 15525420
+ - - -
+data 4
+current 15525088
+next 15524300
+ - - -
+data 3
+current 15525088
+next 15524244
+ - - -
+data 2
+current 15525088
+next 15525308
+ - - -
+data 1
+current 15525088
+next 15524356
+ - - -

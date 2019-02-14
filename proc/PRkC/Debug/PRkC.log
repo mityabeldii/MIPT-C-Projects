@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\mityabeldii\documents\visual studio 2015\projects\prθc\prθc\main.cpp(264): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+  PRΘC.vcxproj -> c:\users\mityabeldii\documents\visual studio 2015\Projects\PRΘC\Debug\PRΘC.exe
+  PRΘC.vcxproj -> c:\users\mityabeldii\documents\visual studio 2015\Projects\PRΘC\Debug\PRΘC.pdb (Partial PDB)
